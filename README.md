@@ -73,3 +73,9 @@ a{
 - exploreMenu - clicked marking on items(salad,rolls,desert,sandwitch....8items)
 - used ContextApi (storeContext)
 
+
+
+## for demo
+- `npm run preview`
+
+## [https://bhanwarlal11.github.io/Food-Ordering-Vite-App/](https://bhanwarlal11.github.io/Food-Ordering-Vite-App/)
